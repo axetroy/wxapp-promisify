@@ -10,6 +10,12 @@
     "generate": "all-contributors generate",
     "deploy": "gh-pages -d ./dist"
   },
+  "keywords": [
+    "wxapp",
+    "promise",
+    "wx",
+    "promisify"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/axetroy/wxapp-promisify.git"
