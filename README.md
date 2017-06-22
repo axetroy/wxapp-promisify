@@ -1,4 +1,6 @@
 # wxapp-promisify
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/wxapp-promisify.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/axetroy/wxapp-promisify.svg?branch=master)](https://travis-ci.org/axetroy/wxapp-promisify)
 [![Dependency](https://david-dm.org/axetroy/wxapp-promisify.svg)](https://david-dm.org/axetroy/wxapp-promisify)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
