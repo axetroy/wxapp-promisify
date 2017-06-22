@@ -1,5 +1,5 @@
 {
-  "name": "wxapp-promisify",
+  "name": "@axetroy/wxapp-promisify",
   "version": "0.1.0",
   "description": "promisify the wx API",
   "main": "./dist/index.js",

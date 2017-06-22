@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-green.svg)](https://github.com/prettier/prettier)
 ![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
-[![npm version](https://badge.fury.io/js/wxapp-promisify.svg)](https://badge.fury.io/js/wxapp-promisify)
+[![npm version](https://badge.fury.io/js/@axetroy/wxapp-promisify.svg)](https://badge.fury.io/js/wxapp-promisify)
 
 让微信小城的对全局对``wx``的api返回promise.
 
@@ -25,10 +25,10 @@ npm install wxapp-promisify
 
 ```javascript
 // es6
-import wx from 'wxapp-promisify';
+import wx from '@axetroy/wxapp-promisify';
 
 // commandJS
-var wx = require('wxapp-promisify');
+var wx = require('@axetroy/wxapp-promisify');
 
 wx
   .getUserInfoAsync()
