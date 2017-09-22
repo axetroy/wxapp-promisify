@@ -17,12 +17,6 @@
 npm install wxapp-promisify
 ```
 
-## Features
-
-- [x] 存储绝大多数的数据类型(微信原生对象只支持object/string)
-- [x] 设置有存储时限
-- [x] 优雅的API
-
 ## Usage
 
 ```javascript
